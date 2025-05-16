@@ -16,7 +16,7 @@ Use any code editor like VS Code.
 SETUP INSTRUCTIONS:
 
 Clone this repository using
-git clone https://github.com/yourusername/terraform-to-create-spotify-playlist.git
+git clone [https://github.com/yourusername/terraform-to-create-spotify-playlist.git](https://github.com/vallikosuru/Terraform-to-create-spotify-playlist.git)
 cd terraform-to-create-spotify-playlist
 
 Create a .env file in the root directory and add the following:
